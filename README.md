@@ -1,4 +1,13 @@
+# Instrucciones de ejecución
+
+cd CMF-API
+npm install
+npm run format
+npm run dev
+
+
 # Evaluación Técnica
+
 
 La Comisión Para el Mercado Financiero chileno tiene APIs públicas que permiten acceder a
 reportes bancarios e indicadores financieros. Para resolver los requerimientos listados a
