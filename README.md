@@ -1,17 +1,26 @@
 # Instrucciones de ejecución
 
-## Ubicarse en la carpeta del proyecto
 
+### Requisitos frontend
+
+* Npm
+* Nodejs
+
+Para levantar la vista usted tendrá que ubicarse en la carpeta llamada frontend.
+
+
+
+## Ubicarse en la carpeta del proyecto
 ```sh
 cd CMF-API
 ``
-## Project Setup
+## Instalación del proyecto
 
 ```sh
 npm install
 ``
 
-## Correr programa
+### Compilar y ejecutar la vista en el puerto local 5173
 
 ```sh
 npm run dev
