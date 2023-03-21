@@ -3,8 +3,8 @@
 
 ### Requisitos frontend
 
-* Npm
-* Nodejs
+* Npm 16.14.1
+* Nodejs 9.6.0
 
 Para levantar la vista usted tendrá que ubicarse en la carpeta llamada frontend.
 
