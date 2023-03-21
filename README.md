@@ -1,9 +1,21 @@
 # Instrucciones de ejecución
 
+## Ubicarse en la carpeta del proyecto
+
+```sh
 cd CMF-API
+``
+## Project Setup
+
+```sh
 npm install
-npm run format
+``
+
+## Correr programa
+
+```sh
 npm run dev
+``
 
 
 # Evaluación Técnica
